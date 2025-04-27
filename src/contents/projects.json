@@ -1,0 +1,20 @@
+[
+  {
+    "slug": "project-one",
+    "title": "Project One",
+    "description": "Short description for Project One.",
+    "details": "Full details about Project One."
+  },
+  {
+    "slug": "project-two",
+    "title": "Project Two",
+    "description": "Short description for Project Two.",
+    "details": "Full details about Project Two."
+  },
+  {
+    "slug": "project-three",
+    "title": "Project Three",
+    "description": "Short description for Project Three.",
+    "details": "Full details about Project Three."
+  }
+]
